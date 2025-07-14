@@ -1,0 +1,46 @@
+<svg fill="none" height="79" viewBox="0 0 900 79" width="900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Trash can icon -->
+  <g transform="translate(30, 18)">
+    <rect x="5" y="15" width="25" height="30" rx="2" fill="#00A86B" stroke="#007A4D" stroke-width="2"/>
+    <rect x="0" y="10" width="35" height="6" rx="3" fill="#007A4D"/>
+    <rect x="12" y="5" width="11" height="5" rx="2" fill="#007A4D"/>
+    <line x1="12" y1="20" x2="12" y2="35" stroke="#007A4D" stroke-width="2"/>
+    <line x1="18" y1="20" x2="18" y2="35" stroke="#007A4D" stroke-width="2"/>
+    <line x1="24" y1="20" x2="24" y2="35" stroke="#007A4D" stroke-width="2"/>
+  </g>
+  
+  <!-- Gorbagana text -->
+  <g fill="#00A86B" transform="translate(80, 18)">
+    <!-- G -->
+    <path d="M20 5 C5 5, 0 15, 0 25 C0 35, 5 45, 20 45 C30 45, 35 40, 35 35 L35 25 L25 25 L25 30 L30 30 C30 35, 25 40, 20 40 C10 40, 5 35, 5 25 C5 15, 10 10, 20 10 C25 10, 30 12, 32 15 L37 12 C34 7, 28 5, 20 5 Z"/>
+    
+    <!-- O -->
+    <path d="M50 5 C40 5, 35 15, 35 25 C35 35, 40 45, 50 45 C60 45, 65 35, 65 25 C65 15, 60 5, 50 5 Z M50 10 C55 10, 60 15, 60 25 C60 35, 55 40, 50 40 C45 40, 40 35, 40 25 C40 15, 45 10, 50 10 Z" transform="translate(20, 0)"/>
+    
+    <!-- R -->
+    <path d="M5 5 L5 45 L10 45 L10 30 L20 30 C25 30, 30 25, 30 20 C30 15, 25 10, 20 10 L5 10 Z M10 10 L20 10 C22 10, 25 12, 25 15 C25 18, 22 20, 20 20 L10 20 Z M25 30 L30 45 L35 45 L28 30 Z" transform="translate(75, 0)"/>
+    
+    <!-- B -->
+    <path d="M5 5 L5 45 L20 45 C25 45, 30 40, 30 35 C30 32, 28 30, 25 29 C27 28, 28 25, 28 22 C28 17, 25 12, 20 12 L5 12 Z M10 12 L20 12 C22 12, 23 14, 23 17 C23 20, 22 22, 20 22 L10 22 Z M10 27 L20 27 C23 27, 25 29, 25 32 C25 35, 23 37, 20 37 L10 37 Z" transform="translate(120, 0)"/>
+    
+    <!-- A -->
+    <path d="M15 5 L5 45 L10 45 L12 35 L18 35 L20 45 L25 45 L15 5 Z M13 30 L17 30 L15 20 Z" transform="translate(165, 0)"/>
+    
+    <!-- G -->
+    <path d="M20 5 C5 5, 0 15, 0 25 C0 35, 5 45, 20 45 C30 45, 35 40, 35 35 L35 25 L25 25 L25 30 L30 30 C30 35, 25 40, 20 40 C10 40, 5 35, 5 25 C5 15, 10 10, 20 10 C25 10, 30 12, 32 15 L37 12 C34 7, 28 5, 20 5 Z" transform="translate(200, 0)"/>
+    
+    <!-- A -->
+    <path d="M15 5 L5 45 L10 45 L12 35 L18 35 L20 45 L25 45 L15 5 Z M13 30 L17 30 L15 20 Z" transform="translate(255, 0)"/>
+    
+    <!-- N -->
+    <path d="M5 5 L5 45 L10 45 L10 20 L20 45 L25 45 L25 5 L20 5 L20 30 L10 5 Z" transform="translate(290, 0)"/>
+    
+    <!-- A -->
+    <path d="M15 5 L5 45 L10 45 L12 35 L18 35 L20 45 L25 45 L15 5 Z M13 30 L17 30 L15 20 Z" transform="translate(330, 0)"/>
+  </g>
+  
+  <!-- Explorer text -->
+  <g fill="#007A4D" transform="translate(450, 18)">
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="20" font-weight="bold">EXPLORER</text>
+  </g>
+</svg>

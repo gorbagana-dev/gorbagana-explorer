@@ -1,0 +1,97 @@
+//
+// solana-variables.scss
+// Use this to overwrite Bootstrap and Dashkit variables
+//
+
+// Example of a variable override to change Dashkit's background color
+// Remove the "//" to comment it in and see it in action!
+$body-bg: #f9fdfc !default;
+
+// Colors
+
+$white: #ffffff !default;
+$gray-100: #f9fdfc;
+$gray-200: #f1f8f6;
+$gray-300: #e5ebe9;
+$gray-400: #c6e6de;
+$gray-500: #abd5c6;
+$gray-600: #86b8b6;
+$gray-700: #698582;
+$gray-800: #387462;
+$gray-900: #1b4e3f;
+$black: #232323;
+
+$rainbow-1: #00F56B;
+$rainbow-2: #00E162;
+$rainbow-3: #00CC59;
+$rainbow-4: #00B84F;
+$rainbow-5: #00A346;
+
+$primary: #00A86B !default;
+$primary-dark: #007A4D !default;
+$success: #00A86B !default;
+$secondary: $gray-700;
+$danger: #b45be1;
+$warning: #d83aeb !default;
+$info: #43b5c5 !default;
+$light: $gray-100;
+$dark: $gray-900;
+
+$theme-colors: (
+    'black': $black,
+    'gray': $gray-900,
+) !default;
+
+$card-border-color: $gray-300 !default;
+$input-group-addon-color: $gray-900 !default;
+$navbar-light-active-color: $primary-dark;
+$link-color: $primary-dark;
+
+// Global
+
+.display-2 {
+    font-family: Saira, Helvetica, sans-serif;
+}
+
+.text-rainbow {
+    background: linear-gradient(0.3turn, #00A86B, #00F56B);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bg-rainbow {
+    background: linear-gradient(0.3turn, #00A86B, #00F56B);
+}
+
+.bg-rainbow-1 {
+    background: #00F56B;
+}
+.bg-rainbow-2 {
+    background: #00E162;
+}
+.bg-rainbow-3 {
+    background: #00CC59;
+}
+.bg-rainbow-4 {
+    background: #00B84F;
+}
+.bg-rainbow-5 {
+    background: #00A346;
+}
+
+.text-rainbow-1 {
+    color: #00F56B;
+}
+.text-rainbow-2 {
+    color: #00E162;
+}
+.text-rainbow-3 {
+    color: #00CC59;
+}
+.text-rainbow-4 {
+    color: #00B84F;
+}
+.text-rainbow-5 {
+    color: #00A346;
+}
